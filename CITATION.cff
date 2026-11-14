@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "emitter-zpl-tracking"
+authors:
+  - family-names: "Vercammen"
+    given-names: "Yannick"
+license: MIT
+repository-code: "https://github.com/yannickvercammen1985/emitter-zpl-tracking"

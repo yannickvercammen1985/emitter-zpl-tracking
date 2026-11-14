@@ -1,0 +1,16 @@
+# Data and model files never go to GitHub
+data/
+*.pt
+*.pth
+checkpoints/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
